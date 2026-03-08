@@ -1,5 +1,5 @@
-# Begging
-Begging For Begginers XYZ Labz | Digitalty©
+# Beginning
+Beginning For Begginers XYZ Labz | Digitalty©
 
 <p align="center">   <img src="xyzlabzdigitalty.png" width="250"> </p>                
 
