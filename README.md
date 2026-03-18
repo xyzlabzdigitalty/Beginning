@@ -5,7 +5,7 @@ Beginning For Beginners XYZ Labz | Digitalty©
 
 Let's Start
 
-<p align="center">   <img src="begin.png" width="250"> </p> 
+<p align="left">   <img src="begin.png" width="250"> </p> 
 
 Who Are We?
 We are a software development and manufacturing brand that launched in 2026.
