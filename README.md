@@ -1,5 +1,5 @@
 # Beginning
-Beginning For Begginers XYZ Labz | Digitalty©
+Beginning For Beginners XYZ Labz | Digitalty©
 
 <p align="center">   <img src="xyzlabzdigitalty.png" width="250"> </p>                
 
